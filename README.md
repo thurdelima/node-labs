@@ -24,8 +24,8 @@
 
 Step by step to use
 
-1 - rename .env.example to env end config vars
-2 - import arquive collection endpoint called Insomnia_2021-05-13.json to your insomnia or postman.
+1 - rename .env.example to env end config vars <br/>
+2 - import arquive collection endpoint called Insomnia_2021-05-13.json to your insomnia or postman. <br/>
 3 - enjoy it
 
 <br/>
